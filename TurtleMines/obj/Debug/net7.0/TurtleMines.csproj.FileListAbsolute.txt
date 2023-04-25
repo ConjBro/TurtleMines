@@ -1,0 +1,17 @@
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\bin\Debug\net7.0\TurtleMines.exe
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\bin\Debug\net7.0\TurtleMines.deps.json
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\bin\Debug\net7.0\TurtleMines.runtimeconfig.json
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\bin\Debug\net7.0\TurtleMines.dll
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\bin\Debug\net7.0\TurtleMines.pdb
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\obj\Debug\net7.0\TurtleMines.csproj.AssemblyReference.cache
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\obj\Debug\net7.0\TurtleMines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\obj\Debug\net7.0\TurtleMines.AssemblyInfoInputs.cache
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\obj\Debug\net7.0\TurtleMines.AssemblyInfo.cs
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\obj\Debug\net7.0\TurtleMines.csproj.CoreCompileInputs.cache
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\obj\Debug\net7.0\TurtleMines.csproj.CopyComplete
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\obj\Debug\net7.0\TurtleMines.dll
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\obj\Debug\net7.0\refint\TurtleMines.dll
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\obj\Debug\net7.0\TurtleMines.pdb
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\obj\Debug\net7.0\TurtleMines.genruntimeconfig.cache
+C:\Users\Brooky\Documents\C# Things\TurtleMines\TurtleMines\obj\Debug\net7.0\ref\TurtleMines.dll
